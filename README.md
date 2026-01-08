@@ -1,5 +1,6 @@
 1、fork到自己的github仓库
 2、获取续期项目链接地址
+
 <img width="622" height="423" alt="6648f1ff31ea7d2fab0d92eac5372dd5" src="https://github.com/user-attachments/assets/33f6c7fc-1c8e-4346-a130-34f0cbfec733" />
 3、获取续期项目地址的网络cookie
 在当前页面按 f12 进入 开发者页面
